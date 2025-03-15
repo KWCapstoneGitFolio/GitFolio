@@ -2,9 +2,9 @@
 
 1. 저장소를 클론합니다:
 
-git clone https://github.com/yourusername/github-portfolio-builder.git
+git clone https://github.com/KWCapstoneGitFolio/GitFolio.git
 
-cd github-portfolio-builder
+cd GitFolio
 
 
 2. 필요한 패키지를 설치합니다:
