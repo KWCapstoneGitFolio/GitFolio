@@ -1,0 +1,28 @@
+# 환경 변수 파일
+.env
+.env.*
+!.env.example
+
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 의존성 디렉토리
+node_modules/
+
+# 맥북 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 기타 불필요한 파일
+.vscode/
+.idea/
+*.log
+*.swp
+
+# 빌드 결과물
+/dist
+/build
