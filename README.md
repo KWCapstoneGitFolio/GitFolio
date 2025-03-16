@@ -24,5 +24,5 @@ cp server/.env.example server/.env
 
 5. 서버를 실행합니다:
 
-cd server
+cd server</br>
 npm start
